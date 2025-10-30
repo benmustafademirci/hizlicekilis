@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:mobile="http://www.mobile.googlebot.com/schemas/mobile/1.0">
+    
+    <!-- Ana Sayfa -->
+    <url>
+        <loc>https://hizlicekilis.com/</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <mobile:mobile/>
+    </url>
+    
+    <!-- İsim Çekilişi -->
+    <url>
+        <loc>https://hizlicekilis.com/#name</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+    </url>
+    
+    <!-- Numara Çekilişi -->
+    <url>
+        <loc>https://hizlicekilis.com/#number</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+    </url>
+    
+    <!-- Sosyal Medya Çekilişi -->
+    <url>
+        <loc>https://hizlicekilis.com/#social</loc>
+        <lastmod>2025-10-30</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+        <mobile:mobile/>
+    </url>
+    
+</urlset>
