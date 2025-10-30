@@ -387,6 +387,6 @@ Bu proje aşağıdaki harika araçlar ve kütüphaneler kullanılarak oluşturul
 
 **Hızlı Çekiliş Aracı ile profesyonel çekiliş yapın!**
 
-[🌐 Website](https://hizlicekilis.com) • [📧 İletişim](mailto:info@dunyawebtasarim.com) • [🐙 GitHub](https://github.com/dunyawebtasarim/hizlicekilis)
+[🌐 Website](https://dunyawebtasarim.com) • [📧 İletişim](mailto:mustafa@demircimedya.com.tr)
 
 </div>
